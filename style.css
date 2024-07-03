@@ -1,0 +1,17 @@
+@import url("style/header.css");
+@import url("style/banner.css");
+
+:root {
+    --fundo-site: lightgray;
+    --branco: #fff;
+    --laranja: #FECD2F;
+    --azul-degrade: linear-gradient(97.54deg, #002f52 35.49%, #326583 165.37%);
+    --fonte-principal: "poppins";
+}
+
+body {
+    background-color: var(--fundo-site);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400px;
+}
