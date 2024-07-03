@@ -1,9 +1,0 @@
-:root {
-    --fundo-site: lightgray;
-    --branco: #fff;
-    --laranja: #FECD2F;
-}
-
-body {
-    background-color: var(--fundo-site)
-}
